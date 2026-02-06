@@ -103,7 +103,7 @@ TernaryLM is **inspired by [BitNet](https://arxiv.org/abs/2310.11453)**, but dif
 | Aspect | BitNet | TernaryLM |
 |------|-------|----------|
 | Target scale | Billions+ | 132M |
-| Hardware | Large clusters | Single GPU |
+| Hardware | Large clusters | Dual GPU |
 | Precision | 1 / 1.58-bit | **Pure ternary (1-bit)** |
 | Focus | Scaling laws | **Practical efficiency & analysis** |
 
