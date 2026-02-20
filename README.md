@@ -97,6 +97,7 @@ Quantized representations remain **semantically useful**, especially for similar
 
 Near-parity latency **without specialized ternary kernels**.
 
+Download and Test the Model from Hugging Face now: [TernaryLM](https://huggingface.co/OpenRAG128/TernaryLM).
 
 TernaryLM is **inspired by [BitNet](https://arxiv.org/abs/2310.11453)**, but differs in scope and intent:
 
